@@ -127,5 +127,5 @@ while num != "exit":
     print(animals[int(num)])
     print("Please enter the number of the habitat you would like to view:")
     num = input()
-print('See you later!')    #end
+print('See you later!')    
 
